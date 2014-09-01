@@ -21,10 +21,15 @@ In order not to write tons of code and save myself time + make the code more rea
 * I should start using some library for logging like log4j
 * Start using a more sophisticated database for storing reports. Actually one can extend this and uses the analytical engines of some rdbms in order to get some additional analytical data.
 
+#How to run the program#
+* Option A: Import the project as a maven project into eclipse
+* Option B: run mvn clean install, there're unit tests that verify the whole thingy you can also go to the target folder and execute in the command line: `java -Dconfig.file=<path to config file> -Dinput.file=<path to input file> -Doutput.file=<path to output file> -jar <path to jar>`
+* I haven't wirtten some serious documentation, but I know you'll manage to read and understand the code on your own.
+
 #Project Setup#
 
 In TaxesAreABadThing folder you will find:
 * pom.xml -> builds na executable .jar file
 * .classpath and .project files -> I have used eclipse, so I am submiting this for you you can import the project directly in Eclipse if you're using this IDE, otherwise please use maven in order to build and run your project :-)
 * src -> folders with sources and tests
-* src/main/java -> contains configuration
+* src/main/resources -> contains configuration
