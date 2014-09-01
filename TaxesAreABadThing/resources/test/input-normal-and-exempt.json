@@ -1,0 +1,23 @@
+{
+	"sales": 
+	[
+		{
+			"type": "EXEMPT",
+			"name": "book",
+			"price":"12.49", 
+			"quantity":"1"
+		},
+		{
+			"type": "NORMAL",
+			"name": "music CD",
+			"price": "14.99", 
+			"quantity": "1"
+		},
+		{
+			"type": "EXEMPT",
+			"name": "chocolate bar",
+			"price": "0.85", 
+			"quantity":"1"
+		}
+	]
+}

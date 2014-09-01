@@ -1,0 +1,17 @@
+{
+	"sales": 
+	[
+		{
+			"type": "IMPORTED_EXEMPT",
+			"name": "box of chocolates",
+			"price":"10.00", 
+			"quantity":"1"
+		},
+		{
+			"type": "IMPORTED",
+			"name": "perfume",
+			"price": "47.50", 
+			"quantity": "1"
+		}
+	]
+}

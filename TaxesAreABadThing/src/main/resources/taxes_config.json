@@ -1,0 +1,22 @@
+{
+	
+	"roundingFactor": "20",	
+	"config": [
+		{
+			"key":"NORMAL",
+			"taxPercantage": "0.1"
+		},
+		{
+			"key":"IMPORTED",
+			"taxPercantage": "0.15"			
+		},
+		{
+			"key":"EXEMPT",
+			"taxPercantage": "0.0"			
+		},
+		{
+			"key":"IMPORTED_EXEMPT",
+			"taxPercantage": "0.05"
+		}		
+	]
+}

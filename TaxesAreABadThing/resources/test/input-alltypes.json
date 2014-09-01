@@ -1,0 +1,29 @@
+{
+	"sales": 
+	[
+		{
+			"type": "IMPORTED",
+			"name": "bottle of perfume",
+			"price":"32.19", 
+			"quantity":"1"
+		},
+		{
+			"type": "NORMAL",
+			"name": "bottle of perfume",
+			"price": "20.89", 
+			"quantity": "1"
+		},
+		{
+			"type": "EXEMPT",
+			"name": "packet of headache pills",
+			"price": "9.75", 
+			"quantity":"1"
+		},
+		{
+			"type": "IMPORTED_EXEMPT",
+			"name": "box of chocolates",
+			"price":"11.85", 
+			"quantity":"1"
+		}
+	]
+}

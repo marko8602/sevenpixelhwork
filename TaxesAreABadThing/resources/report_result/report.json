@@ -1,0 +1,30 @@
+{
+  "salesTaxes": 7.55,
+  "totalAmount": 82.23,
+  "soldItems": [
+    {
+      "type": "IMPORTED",
+      "quantity": 1,
+      "name": "bottle of perfume",
+      "price": 32.19
+    },
+    {
+      "type": "NORMAL",
+      "quantity": 1,
+      "name": "bottle of perfume",
+      "price": 20.89
+    },
+    {
+      "type": "EXEMPT",
+      "quantity": 1,
+      "name": "packet of headache pills",
+      "price": 9.75
+    },
+    {
+      "type": "IMPORTED_EXEMPT",
+      "quantity": 1,
+      "name": "box of chocolates",
+      "price": 11.85
+    }
+  ]
+}
